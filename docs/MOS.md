@@ -181,6 +181,12 @@ Syntax: `*DIR [<path>]`
 
 This command is an alias for the `CAT` command.
 
+### `*ECHO`
+
+Syntax: `*echo <string>`  
+
+This command provides an "echo" command in the style of the Echo command on RISC OS  
+
 ### `ERASE`
 
 Syntax: `*ERASE <filename>`
